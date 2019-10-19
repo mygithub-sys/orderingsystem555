@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../orderingsystem-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../orderingsystem-master/account" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../orderingsystem-master/clientfeign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../orderingsystem-master/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../orderingsystem-master/menu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../orderingsystem-master/order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../orderingsystem-master/registrycenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../orderingsystem-master/user" charset="UTF-8" />
+  </component>
+</project>
